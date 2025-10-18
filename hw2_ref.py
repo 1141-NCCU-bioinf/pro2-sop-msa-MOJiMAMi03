@@ -1,1 +1,0 @@
-def calculate_SoP(input_path, score_path, gopen, gextend):
